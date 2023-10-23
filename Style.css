@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Zasline;
+  src: url(Zasline.otf);
+}
+
+body {background-color: black;font-family: Zasline;}
+
+h1 {color: aliceblue;
+  font-size: 17px;
+  justify-content: center;
+    -webkit-user-select: none;
+    user-select: none;}
+    
+.horizon {display: flex;
+margin-bottom: 50px;}
+
+img {max-width: 220px;}
